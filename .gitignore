@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+myvirtualenv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Django
+staticfiles/
+media/
+*.log
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
